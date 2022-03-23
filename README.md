@@ -22,8 +22,6 @@ Numerical methods and Computing,
 Fiscal Implications of Technological Decision Making,  
 To be a Good Servant Mentor, ...  
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Git</title></svg>
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/jasojone/jasojone">
