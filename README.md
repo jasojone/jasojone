@@ -10,8 +10,8 @@
 Here are some ideas to get you started: -->
 
 
-- 🌱 I’m currently learning 🌱  
-To be a Good Servant Mentor, and Open, Transparent, and Expressive Mente,  
+🌱 I’m currently learning 🌱  
+To be a good servant mentor, and an open, transparent, and expressive mente,  
 Terraform, Puppet, Docker, .yaml, Pearl, Service Now, ITIL,  
 Networking Infrastructure and Protocols,  
 Linux System Administration, Bash, Scripting, Python,  
