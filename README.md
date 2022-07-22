@@ -10,9 +10,19 @@
 Here are some ideas to get you started: -->
 
 
-- 🌱 I’m currently learning  
+- 🌱 I’m currently learning 🌱  
+Terraform,
+Puppet,
+Pearl,
+Service Now,
+ITIL,
+Networking Infrastructure and Protocols,
+Linux System Administration,
+Bash,
+Scripting,
+Python,
 Binarysearch.com Coding Problems,  
-AWS,  
+AWS & Azure,  
 Azure,  
 C the Programming Language,    
 Arduino,  
@@ -22,7 +32,7 @@ Algorithm Analysis,
 Numerical methods and Computing,  
 Fiscal Implications of Technological Decision Making,  
 To be a Good Servant Mentor, 
-To be a Good Expressive Mentee.
+To be a Good Open, Transparent and Expressive Mentee.
 
 ## &#x1f4c8; GitHub Stats
 
