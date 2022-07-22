@@ -12,18 +12,10 @@ Here are some ideas to get you started: -->
 
 - 🌱 I’m currently learning 🌱  
 To be a Good Servant Mentor, and Open, Transparent, and Expressive Mente,  
-Terraform,  
-Puppet,  
-Pearl,  
-Service Now,  
-ITIL,  
+Terraform, Puppet, Docker, .yaml, Pearl, Service Now, ITIL,  
 Networking Infrastructure and Protocols,  
-Linux System Administration,  
-Bash,  
-Scripting,  
-Python,  
-Binarysearch.com Coding Problems,  
-AWS & Azure.
+Linux System Administration, Bash, Scripting, Python,  
+Binarysearch.com Coding Problems, AWS & Azure.
 
 ## &#x1f4c8; GitHub Stats
 
