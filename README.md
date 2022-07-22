@@ -11,6 +11,7 @@ Here are some ideas to get you started: -->
 
 
 - 🌱 I’m currently learning 🌱  
+To be a Good Servant Mentor, and Open, Transparent, and Expressive Mente,  
 Terraform,  
 Puppet,  
 Pearl,  
@@ -22,17 +23,7 @@ Bash,
 Scripting,  
 Python,  
 Binarysearch.com Coding Problems,  
-AWS & Azure,  
-Azure,  
-C the Programming Language,    
-Arduino,  
-GitBash,  
-Linux Virtual Machines,  
-Algorithm Analysis,  
-Numerical methods and Computing,  
-Fiscal Implications of Technological Decision Making,  
-To be a Good Servant Mentor, 
-To be a Good Open, Transparent and Expressive Mentee.
+AWS & Azure.
 
 ## &#x1f4c8; GitHub Stats
 
