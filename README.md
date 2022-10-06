@@ -9,13 +9,19 @@
 
 Here are some ideas to get you started: -->
 
-
-🌱 I’m currently learning 🌱  
-To be a good servant mentor, and an open, transparent, and expressive mente,  
-Python, Dart, Flutter, Terraform, Puppet, Docker, .yaml, Pearl, Service Now, ITIL,  
+🌱 I'm currently learning... 🌱  
+Python, Dart, Flutter, Firebase, Back end with Django,  
 Networking Infrastructure and Protocols,  
-Linux System Administration, Bash, Scripting, Python,  
-Binarysearch.com Coding Problems, AWS & Azure.
+Linux System Administration, Bash, Scripting.
+
+👨‍💻 I'm working on...👨‍💻 
+Founding the Cal Poly Pomona Student Developer Club, building a community and legacy.
+A Cloud Computing application that utilizes Data Science and Big Data for text categorization with an emphasis on business application.
+A package tracking application using Flutter, Dart, Python, and GCP.
+Follow me 👉 https://linktr.ee/cppgdsc
+
+
+
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 
