@@ -15,9 +15,9 @@ Networking Infrastructure and Protocols,
 Linux System Administration, Bash, Scripting.
 
 👨‍💻 I'm working on...👨‍💻 
-Founding the Cal Poly Pomona Student Developer Club, building a community and legacy.
-A Cloud Computing application that utilizes Data Science and Big Data for text categorization with an emphasis on business application.
-A package tracking application using Flutter, Dart, Python, and GCP.
+Founding the Cal Poly Pomona Student Developer Club, building a community and legacy.  
+A Cloud Computing application that utilizes Data Science and Big Data for text categorization with an emphasis on business application.  
+A package tracking application using Flutter, Dart, Python, and GCP.  
 Follow me 👉 https://linktr.ee/cppgdsc
 
 
