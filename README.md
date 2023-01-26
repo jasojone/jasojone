@@ -15,24 +15,24 @@ TypeScript, JS, React, Node.je, Bootstrap 5, and MUI
 Postman, jest, and Axios
 ADO, Azure Functions  
 
-🎓 Academically 🎓
+🎓 Academically 🎓  
 Big Data and Cloud Computing
 Ethics and Applied Science
 Artificial Intelligence
 Computer Architecture  
 
-✨ Personally ✨
+✨ Personally ✨  
 Be more coachable, mindful, and grateful to KEEP IT SIMPLE. 
 To question the internal dialog that says, "Oh, that, that's normal."
 To lead and inspire others to become more actionable.  
 
 👨‍💻 I'm working on...👨‍💻   
 Founding the Cal Poly Pomona Student Developer Club, building a community and legacy.  
-A Cloud Computing application that utilizes Data Science and Big Data for text categorization with an emphasis on bettering the mental health of WFH Workers.  
+A Cloud Computing application that utilizes Artificial Intelligence, Computer Vision, Data Science, and Big Data with an emphasis on bettering the mental health of WFH Workers.  
 
-**Hey, thanks for stopping by. Have a great day!**
+### Hey, thanks for stopping by. Have a great day!  
  
-Follow me 👉 [linktr.ee/Jasonjones](https://linktr.ee/Jasonjones)
+### Follow me 👉 [linktr.ee/Jasonjones](https://linktr.ee/Jasonjones)
 
 
 
