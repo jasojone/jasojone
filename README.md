@@ -8,8 +8,10 @@
 **jasojone/jasojone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-🌱 I'm currently learning 🌱  
-Professionally  
+**🌱 I'm currently learning🌱**  
+  
+  
+💻 Professionally 💻  
 C# and .NET Core, SQL  
 TypeScript, JS, React, Node.je, Bootstrap 5, and MUI  
 Postman, jest, and Axios  
@@ -30,6 +32,7 @@ To lead and inspire others to become more actionable.
 👨‍💻 I'm working on...👨‍💻   
 Founding the Cal Poly Pomona Student Developer Club, building a community and legacy.  
 A Cloud Computing application that utilizes Artificial Intelligence, Computer Vision, Data Science, and Big Data with an emphasis on bettering the mental health of WFH Workers.  
+A DIY Cold plunge, and to become an ICE MAN.  
 
 ### Hey, thanks for stopping by. Have a great day!  
  
