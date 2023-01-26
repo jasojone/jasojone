@@ -9,22 +9,23 @@
 
 Here are some ideas to get you started: -->
 🌱 I'm currently learning 🌱  
-Professionally
-C# and .NET Core, SQL
-TypeScript, JS, React, Node.je, Bootstrap 5, and MUI
-Postman, jest, and Axios
-ADO, Azure Functions  
+Professionally  
+C# and .NET Core, SQL  
+TypeScript, JS, React, Node.je, Bootstrap 5, and MUI  
+Postman, jest, and Axios  
+ADO, Azure Functions   
 
 🎓 Academically 🎓  
-Big Data and Cloud Computing
-Ethics and Applied Science
-Artificial Intelligence
-Computer Architecture  
+Big Data and Cloud Computing  
+Ethics and Applied Science  
+Artificial Intelligence  
+Computer Architecture   
 
 ✨ Personally ✨  
-Be more coachable, mindful, and grateful to KEEP IT SIMPLE. 
-To question the internal dialog that says, "Oh, that, that's normal."
-To lead and inspire others to become more actionable.  
+Be more coachable, mindful, and grateful to KEEP IT SIMPLE.   
+To question the internal dialog that says, "Oh, that, that's normal."  
+To lead and inspire others to become more actionable.    
+**To be a better man, human, and father.**  
 
 👨‍💻 I'm working on...👨‍💻   
 Founding the Cal Poly Pomona Student Developer Club, building a community and legacy.  
