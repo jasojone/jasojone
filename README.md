@@ -8,17 +8,31 @@
 **jasojone/jasojone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+🌱 I'm currently learning 🌱  
+Professionally
+C# and .NET Core, SQL
+TypeScript, JS, React, Node.je, Bootstrap 5, and MUI
+Postman, jest, and Axios
+ADO, Azure Functions  
 
-🌱 I'm currently learning... 🌱  
-Python, Dart, Flutter, Firebase, Back end with Django,  
-Networking Infrastructure and Protocols,  
-Linux System Administration, Bash, Scripting.
+🎓 Academically 🎓
+Big Data and Cloud Computing
+Ethics and Applied Science
+Artificial Intelligence
+Computer Architecture  
+
+✨ Personally ✨
+Be more coachable, mindful, and grateful to KEEP IT SIMPLE. 
+To question the internal dialog that says, "Oh, that, that's normal."
+To lead and inspire others to become more actionable.  
 
 👨‍💻 I'm working on...👨‍💻   
 Founding the Cal Poly Pomona Student Developer Club, building a community and legacy.  
-A Cloud Computing application that utilizes Data Science and Big Data for text categorization with an emphasis on business application.  
-A package tracking application using Flutter, Dart, Python, and GCP.  
-Follow me 👉 https://linktr.ee/cppgdsc
+A Cloud Computing application that utilizes Data Science and Big Data for text categorization with an emphasis on bettering the mental health of WFH Workers.  
+
+**Hey, thanks for stopping by. Have a great day!**
+ 
+Follow me 👉 [linktr.ee/Jasonjones](https://linktr.ee/Jasonjones)
 
 
 
