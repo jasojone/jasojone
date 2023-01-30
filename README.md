@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Follow me here👉 [linktr.ee/Jasonjones](https://linktr.ee/Jasonjones)
 
 <!-- 
 **jasojone/jasojone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,35 +8,35 @@
 **jasojone/jasojone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-**🌱 I'm currently learning🌱**  
+### 🌱 This is what I'm currently learning🌱
   
   
-💻 Professionally 💻  
+## 💻 Professionally 💻  
 C# and .NET Core, SQL  
 TypeScript, JS, React, Node.je, Bootstrap 5, and MUI  
 Postman, jest, and Axios  
 ADO, Azure Functions   
 
-🎓 Academically 🎓  
+## 🎓 Academically 🎓  
 Big Data and Cloud Computing  
 Ethics and Applied Science  
 Artificial Intelligence  
 Computer Architecture   
 
-✨ Personally ✨  
+## ✨ Personally ✨  
 Be more coachable, mindful, and grateful to KEEP IT SIMPLE.   
 To question the internal dialog that says, "Oh, that, that's normal."  
 To lead and inspire others to become more actionable.    
 **To be a better man, human, and father.**  
 
-👨‍💻 I'm working on...👨‍💻   
+## 👨‍💻 I'm working on...👨‍💻   
 Founding the Cal Poly Pomona Student Developer Club, building a community and legacy.  
 A Cloud Computing application that utilizes Artificial Intelligence, Computer Vision, Data Science, and Big Data with an emphasis on bettering the mental health of WFH Workers.  
 A DIY Cold plunge, and to become an ICE MAN.  
 
-### Hey, thanks for stopping by. Have a great day!  
+### Thanks for stopping by. Have a great day!  
  
-### Follow me 👉 [linktr.ee/Jasonjones](https://linktr.ee/Jasonjones)
+
 
 
 
