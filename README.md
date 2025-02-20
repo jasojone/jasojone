@@ -1,13 +1,14 @@
-### Hi there 👋 Follow me here👉 [linktr.ee/Jasonjones](https://linktr.ee/Jasonjones)
+Hello World
+<!-- ### Hi there 👋 Follow me here👉 [linktr.ee/Jasonjones](https://linktr.ee/Jasonjones)
 
-<!-- 
+ 
 **jasojone/jasojone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 
-<!-- 
+
 **jasojone/jasojone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
+Here are some ideas to get you started:
 ### 🌱 This is what I'm currently learning🌱
   
   
